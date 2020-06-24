@@ -1,4 +1,4 @@
-console.log('Welcome')
+console.log('Welcome to JavaScript')
 
 const APP = 'WebApp';
 
